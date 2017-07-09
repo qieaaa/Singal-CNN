@@ -5,7 +5,9 @@ A trained model file for this code is given [in dropbox](https://www.dropbox.com
 This is a modified version editted with spyder
 Requirement 
 * Keras 2.0.4 with TensorFlow1.0 
-* Anaconda3(python3.5 or 3.6)
+* Anaconda3(python3.5 or 3.6)<br>
+
+![](https://raw.githubusercontent.com/qieaaa/Singal-CNN/master/acc.png)<br>
 
 TODO:<br> 
 add more details
